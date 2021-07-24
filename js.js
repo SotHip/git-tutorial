@@ -1,1 +1,4 @@
-them js ở đây
+function swap(int a, int b)
+{
+    
+}
